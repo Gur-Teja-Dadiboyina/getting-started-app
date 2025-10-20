@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-# Dockerfile used by jenkins
+# Dockerfile used by jenkinsjob
 FROM node:lts-alpine
 WORKDIR /app
 COPY . .
